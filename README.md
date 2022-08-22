@@ -1,2 +1,2 @@
 ## Ray Tracing
-Ray tracing from scratch.
+Ray tracing using OpenGL.
